@@ -45,6 +45,7 @@ These exercises focus on these two types of operations.
 - `catalogue_test.rb`
 - `wallet_test.rb`
 - `clearance_test.rb`
+- `clock_test.rb`
 
 ## Go make up more
 
