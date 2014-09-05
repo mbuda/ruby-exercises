@@ -1,58 +1,61 @@
-# Ruby Exercises
+My solutions for Ruby Exercises. That was fun ^^
 
-A collection of exercises to practice various Ruby concepts.
+Here is original Readme:
 
-## Getting Started
+> # Ruby Exercises
 
-```
-$ gem install bundler
-$ bundle install
-```
+> A collection of exercises to practice various Ruby concepts.
 
-## Running the Tests
+> ## Getting Started
 
-```
-$ ruby path/to/test_file.rb
-```
+> ```
+> $ gem install bundler
+> $ bundle install
+> ```
 
-e.g.
+> ## Running the Tests
 
-```
-$ ruby unicorn_test.rb
-```
+> ```
+> $ ruby path/to/test_file.rb
+> ```
 
-## Exercises
+> e.g.
 
-* core-types
-* shovel-and-shift
-* comparisons
-* command-query
-* mythical-creatures
-* objects-and-methods
+> ```
+> $ ruby unicorn_test.rb
+> ```
 
-Each sub-directory has its own README.
+> ## Exercises
 
-## License
+> * core-types
+> * shovel-and-shift
+> * comparisons
+> * command-query
+> * mythical-creatures
+> * objects-and-methods
 
-The MIT License (MIT)
+> Each sub-directory has its own README.
 
-Copyright (c) 2013 Jumpstart Lab
+> ## License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+> The MIT License (MIT)
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+> Copyright (c) 2013 Jumpstart Lab
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+> Permission is hereby granted, free of charge, to any person obtaining a copy
+> of this software and associated documentation files (the "Software"), to deal
+> in the Software without restriction, including without limitation the rights
+> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+> copies of the Software, and to permit persons to whom the Software is
+> furnished to do so, subject to the following conditions:
 
+> The above copyright notice and this permission notice shall be included in
+> all copies or substantial portions of the Software.
+
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+> THE SOFTWARE.
